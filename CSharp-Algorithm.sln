@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. LinkedList", "02. Linke
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Iterator", "03. Iterator\03. Iterator.csproj", "{900CBF3B-68C2-4B72-B1AB-78D2C045EC65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Stack", "04. Stack\04. Stack.csproj", "{06B6E108-75F5-4C1A-8B18-9308C6720D40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{900CBF3B-68C2-4B72-B1AB-78D2C045EC65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{900CBF3B-68C2-4B72-B1AB-78D2C045EC65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{900CBF3B-68C2-4B72-B1AB-78D2C045EC65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06B6E108-75F5-4C1A-8B18-9308C6720D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B6E108-75F5-4C1A-8B18-9308C6720D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B6E108-75F5-4C1A-8B18-9308C6720D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B6E108-75F5-4C1A-8B18-9308C6720D40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
