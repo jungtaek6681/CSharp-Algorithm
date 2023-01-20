@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00. Algorithm", "00. Algori
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. List", "01. List\01. List.csproj", "{0FB4BC6D-7954-4B1F-8DBA-9D86DC08535E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. LinkedList", "02. LinkedList\02. LinkedList.csproj", "{9462A85C-632F-4F8A-8E5A-EB856FC8FFCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0FB4BC6D-7954-4B1F-8DBA-9D86DC08535E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FB4BC6D-7954-4B1F-8DBA-9D86DC08535E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FB4BC6D-7954-4B1F-8DBA-9D86DC08535E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9462A85C-632F-4F8A-8E5A-EB856FC8FFCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9462A85C-632F-4F8A-8E5A-EB856FC8FFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9462A85C-632F-4F8A-8E5A-EB856FC8FFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9462A85C-632F-4F8A-8E5A-EB856FC8FFCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
