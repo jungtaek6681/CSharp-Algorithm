@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Stack", "04. Stack\04. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Queue", "05. Queue\05. Queue.csproj", "{4B94E45B-DE31-433E-A27B-9A44884BC859}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Heap", "06. Heap\06. Heap.csproj", "{05A76E4F-4CFF-414D-91B6-8FAF333BF747}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Heap", "06. Heap\06. Heap.csproj", "{05A76E4F-4CFF-414D-91B6-8FAF333BF747}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. BinarySearchTree", "07. BinarySearchTree\07. BinarySearchTree.csproj", "{FA033AE4-A995-48BD-BCCD-6376319D493E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{05A76E4F-4CFF-414D-91B6-8FAF333BF747}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05A76E4F-4CFF-414D-91B6-8FAF333BF747}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05A76E4F-4CFF-414D-91B6-8FAF333BF747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA033AE4-A995-48BD-BCCD-6376319D493E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA033AE4-A995-48BD-BCCD-6376319D493E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA033AE4-A995-48BD-BCCD-6376319D493E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA033AE4-A995-48BD-BCCD-6376319D493E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
