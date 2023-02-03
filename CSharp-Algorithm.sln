@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. HashTable", "08. HashTa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. DesignTechnique", "09. DesignTechnique\09. DesignTechnique.csproj", "{9D20614D-AA5E-41AB-A8F9-AA379C36F58F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Sorting", "10. Sorting\10. Sorting.csproj", "{1B508834-8E55-4ACC-84EF-335DFA1697B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. Sorting", "10. Sorting\10. Sorting.csproj", "{1B508834-8E55-4ACC-84EF-335DFA1697B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Searching", "11. Searching\11. Searching.csproj", "{CFFCAAD3-CAB3-478D-BD4E-5AB5CC8AB00B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{1B508834-8E55-4ACC-84EF-335DFA1697B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B508834-8E55-4ACC-84EF-335DFA1697B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B508834-8E55-4ACC-84EF-335DFA1697B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFFCAAD3-CAB3-478D-BD4E-5AB5CC8AB00B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFFCAAD3-CAB3-478D-BD4E-5AB5CC8AB00B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFFCAAD3-CAB3-478D-BD4E-5AB5CC8AB00B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFFCAAD3-CAB3-478D-BD4E-5AB5CC8AB00B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
