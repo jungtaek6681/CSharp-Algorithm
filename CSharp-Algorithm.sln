@@ -5,9 +5,11 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "00. Algorithm", "00. Algorithm\00. Algorithm.csproj", "{C4DCAE62-6DB5-4D83-9AD0-D8B29B18CB01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. List", "01. List\01. List.csproj", "{0FB4BC6D-7954-4B1F-8DBA-9D86DC08535E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. List", "01. List\01. List.csproj", "{0FB4BC6D-7954-4B1F-8DBA-9D86DC08535E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. LinkedList", "02. LinkedList\02. LinkedList.csproj", "{9462A85C-632F-4F8A-8E5A-EB856FC8FFCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. LinkedList", "02. LinkedList\02. LinkedList.csproj", "{9462A85C-632F-4F8A-8E5A-EB856FC8FFCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Stack", "03. Stack\03. Stack.csproj", "{8C752E85-55C3-4EAF-8113-E52FCEEAC7A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{9462A85C-632F-4F8A-8E5A-EB856FC8FFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9462A85C-632F-4F8A-8E5A-EB856FC8FFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9462A85C-632F-4F8A-8E5A-EB856FC8FFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C752E85-55C3-4EAF-8113-E52FCEEAC7A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C752E85-55C3-4EAF-8113-E52FCEEAC7A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C752E85-55C3-4EAF-8113-E52FCEEAC7A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C752E85-55C3-4EAF-8113-E52FCEEAC7A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
