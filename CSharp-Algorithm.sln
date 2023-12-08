@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. List", "01. List\01. Li
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. LinkedList", "02. LinkedList\02. LinkedList.csproj", "{9462A85C-632F-4F8A-8E5A-EB856FC8FFCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Stack", "03. Stack\03. Stack.csproj", "{8C752E85-55C3-4EAF-8113-E52FCEEAC7A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Stack", "03. Stack\03. Stack.csproj", "{8C752E85-55C3-4EAF-8113-E52FCEEAC7A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Queue", "04. Queue\04. Queue.csproj", "{E9613CE1-6518-4C08-8AB6-028F74E219DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Queue", "04. Queue\04. Queue.csproj", "{E9613CE1-6518-4C08-8AB6-028F74E219DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. BinarySearchTree", "05. BinarySearchTree\05. BinarySearchTree.csproj", "{7CB470B6-DC8A-4DA1-AB24-AC704383F6F9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{E9613CE1-6518-4C08-8AB6-028F74E219DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9613CE1-6518-4C08-8AB6-028F74E219DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9613CE1-6518-4C08-8AB6-028F74E219DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CB470B6-DC8A-4DA1-AB24-AC704383F6F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CB470B6-DC8A-4DA1-AB24-AC704383F6F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CB470B6-DC8A-4DA1-AB24-AC704383F6F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CB470B6-DC8A-4DA1-AB24-AC704383F6F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
